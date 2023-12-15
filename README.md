@@ -7,6 +7,10 @@
   + Neural Collaborative Graph Machines for Table Structure Recognition-[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Neural_Collaborative_Graph_Machines_for_Table_Structure_Recognition_CVPR_2022_paper.pdf)
   + TableFormer: Table Structure Understanding with Transformers-[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nassar_TableFormer_Table_Structure_Understanding_With_Transformers_CVPR_2022_paper.pdf)
   + PubTables-1M: Towards comprehensive table extraction from unstructured documents-[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Smock_PubTables-1M_Towards_Comprehensive_Table_Extraction_From_Unstructured_Documents_CVPR_2022_paper.pdf)
+## PR 2022  
+  + Split, Embed and Merge: An accurate table structure recognizer-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322000462)
+## WACV 2022  
+  + Visual Understanding of Complex Table Structures from Document Images-[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Raja_Visual_Understanding_of_Complex_Table_Structures_From_Document_Images_WACV_2022_paper.pdf)
 ## ICCV 2021  
   + Parsing Table Structures in the Wild-[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Long_Parsing_Table_Structures_in_the_Wild_ICCV_2021_paper.pdf)
 ## WACV 2021  
@@ -20,6 +24,9 @@ Mask Alignment
   + CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents-[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Prasad_CascadeTabNet_An_Approach_for_End_to_End_Table_Detection_and_CVPRW_2020_paper.pdf)
 ## ECCV 2020  
   + Image-based table recognition: data, model, and evaluation-[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660562.pdf)
+  + Table Structure Recognition using Top-Down and Bottom-Up Cues-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_5)
+## LERC 2020  
+  + TableBank: Table Benchmark for Image-based Table Detection and Recognition-[Paper](https://aclanthology.org/2020.lrec-1.236/)
 ## ICDAR 2019  
   + Challenges in end-to-end neural scientific table recognition-[Paper](https://ieeexplore.ieee.org/document/8978078)
   + Deep Splitting and Merging for Table Structure Decomposition-[Paper](https://ieeexplore.ieee.org/document/8977975)
