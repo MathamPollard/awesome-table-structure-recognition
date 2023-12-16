@@ -49,6 +49,9 @@
 #### 2023
   + SEMv2: Table Separation Line Detection Based on Conditional Convolution-[Paper](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd),
     [code](https://github.com/ZZR8066/SEMv2)
+#### 2021  
+  + Multi-Type-TD-TSR -- Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition: from OCR to Structured Table Representations-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87626-5_8),
+    [code](https://github.com/Psarpei/Multi-Type-TD-TSR)
 ## Datasets
 |  Name      | Tables | Data Type | TD |  TSR | TCR |  Year|
 |  ----      | ----    | ---- | ---- | ---- | ---- |  ----|
