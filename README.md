@@ -49,16 +49,16 @@
   + SEMv2: Table Separation Line Detection Based on Conditional Convolution-[Paper](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd),
     [code](https://github.com/ZZR8066/SEMv2)
 ## Datasets
-|  Name      | Tables   | TD |  TSR | TCR |  Year|
-|  ----      | ----    | ---- |  ---- | ---- |  ----|
-| [ICDAR2013](https://paperswithcode.com/dataset/icdar-2013)                       | 156    | √ | √ | √ |2013|
-| [SciTSR](https://github.com/Academic-Hammer/SciTSR)                              | 15K    | × | √ | √ |2019|
-| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 417K   | √ | × | × |2020|
-| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 145K   | × | √ | × |2020|
-| [PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)                            | 1M+    | × | √ | √ |2020|
-| [PubTables-1M](https://github.com/microsoft/table-transformer?tab=readme-ov-file)| 1M+    | √ | √ | × |2021|
-| [FinbTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)            | 91596  |   |   |   |2021|
-| [WTW](https://github.com/wangwen-whu/WTW-Dataset)                                | 14581  | × | √ | × |2021|
-| [TabRecSet](https://github.com/MaxKinny/TabRecSet)                               | 38177  | √ | √ | √ |2023|
-| [iFLYTAB](https://github.com/ZZR8066/SEMv2?tab=readme-ov-file)                   | 12104  |   | √ |   |2023|
+|  Name      | Tables | Data Type | TD |  TSR | TCR |  Year|
+|  ----      | ----    | ---- | ---- | ---- | ---- |  ----|
+| [ICDAR2013](https://paperswithcode.com/dataset/icdar-2013)                       | 156   | Digital | √ | √ | √ |2013|
+| [SciTSR](https://github.com/Academic-Hammer/SciTSR)                              | 15K   | Digital | × | √ | √ |2019|
+| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 417K  | Digital | √ | × | × |2020|
+| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 145K  | Digital  | × | √ | × |2020|
+| [PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)                            | 1M+   | Digital  | × | √ | √ |2020|
+| [PubTables-1M](https://github.com/microsoft/table-transformer?tab=readme-ov-file)| 1M+   | Digital  | √ | √ | × |2021|
+| [FinbTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)            | 91596 | Digital  |   | √ |   |2021|
+| [WTW](https://github.com/wangwen-whu/WTW-Dataset)                                | 14581 | Both     | × | √ | × |2021|
+| [TabRecSet](https://github.com/MaxKinny/TabRecSet)                               | 38177 | Both     | √ | √ | √ |2023|
+| [iFLYTAB](https://github.com/ZZR8066/SEMv2?tab=readme-ov-file)                   | 12104 | Both     |   | √ |   |2023|
 
