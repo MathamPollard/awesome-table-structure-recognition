@@ -5,6 +5,7 @@
   + Robust Table Detection and Structure Recognition from Heterogeneous Document Images-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
 ### ICDAR 2023  
   + TRACE: Table Reconstruction Aligned to Corner and Edges-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_29)
+  + Aligning benchmark datasets for table structure recognition-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_23)
 ### CVPR 2022
   + Neural Collaborative Graph Machines for Table Structure Recognition-[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Neural_Collaborative_Graph_Machines_for_Table_Structure_Recognition_CVPR_2022_paper.pdf)
   + TableFormer: Table Structure Understanding with Transformers-[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nassar_TableFormer_Table_Structure_Understanding_With_Transformers_CVPR_2022_paper.pdf)
