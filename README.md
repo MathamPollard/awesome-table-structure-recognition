@@ -1,8 +1,11 @@
 # A Curated List of Awesome Table Structure Recognition (TSR) Research.
 ### CVPR 2023  
   + Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)
+### AAAI 2023  
+  + LORE: Logical Location Regression Network for Table Structure Recognition=[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25402/25174)
 ### PR 2023  
   + Robust Table Detection and Structure Recognition from Heterogeneous Document Images-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
+  + Scene table structure recognition with segmentation collaboration and alignment-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522003828?via%3Dihub)
 ### ICDAR 2023  
   + TRACE: Table Reconstruction Aligned to Corner and Edges-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_29)
   + Aligning benchmark datasets for table structure recognition-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_23)
