@@ -1,4 +1,4 @@
-# A Curated List of Awesome Table Structure Recognition (TSR) Research.Continuously updating.
+# A Curated List of Awesome Table Structure Recognition (TSR) Research.
 ## CVPR 2023  
   + Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)
 ## PR 2023  
