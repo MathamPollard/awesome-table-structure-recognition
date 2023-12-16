@@ -62,14 +62,14 @@
 | [ICDAR2013](https://paperswithcode.com/dataset/icdar-2013)                       | 156   | Digital | √ | √ | √ |2013|
 | [SciTSR](https://github.com/Academic-Hammer/SciTSR)                              | 15K   | Digital | × | √ | √ |2019|
 | [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 417K  | Digital | √ | × | × |2020|
-| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 145K  | Digital  | × | √ | × |2020|
-| [PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)                            | 1M+   | Digital  | × | √ | √ |2020|
-| [PubTables-1M](https://github.com/microsoft/table-transformer?tab=readme-ov-file)| 1M+   | Digital  | √ | √ | × |2021|
-| [FinbTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)            | 91596 | Digital  |   | √ |   |2021|
-| [WTW](https://github.com/wangwen-whu/WTW-Dataset)                                | 14581 | Both     | × | √ | × |2021|  
-| [SynthTabNet](https://github.com/IBM/SynthTabNet)                                | 600K  | Digital  | × | √ | √ |2022|
-| [TabRecSet](https://github.com/MaxKinny/TabRecSet)                               | 38177 | Both     | √ | √ | √ |2023|
-| [iFLYTAB](https://github.com/ZZR8066/SEMv2?tab=readme-ov-file)                   | 12104 | Both     |   | √ |   |2023|
+| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 145K  | Digital | × | √ | × |2020|
+| [PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)                            | 1M+   | Digital | × | √ | √ |2020|
+| [PubTables-1M](https://github.com/microsoft/table-transformer?tab=readme-ov-file)| 1M+   | Digital | √ | √ | × |2021|
+| [FinbTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)            | 91596 | Digital | × | √ | √ |2021|
+| [WTW](https://github.com/wangwen-whu/WTW-Dataset)                                | 14581 | Both    | × | √ | × |2021|  
+| [SynthTabNet](https://github.com/IBM/SynthTabNet)                                | 600K  | Digital | × | √ | √ |2022|
+| [TabRecSet](https://github.com/MaxKinny/TabRecSet)                               | 38177 | Both    | √ | √ | √ |2023|
+| [iFLYTAB](https://github.com/ZZR8066/SEMv2?tab=readme-ov-file)                   | 12104 | Both    | √ | √ | × |2023|
 
 **TD** means **T**able **D**etection  
 **TSR** means **T**able **S**tructure **R**ecognition  
