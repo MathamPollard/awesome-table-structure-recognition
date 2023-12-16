@@ -42,5 +42,5 @@
   + DeepTabStR: Deep Learning based Table Structure Recognition-[Paper](https://ieeexplore.ieee.org/document/8978137)
   + Rethinking Table Recognition using Graph Neural Networks-[Paper](https://www.computer.org/csdl/proceedings-article/icdar/2019/301400a142/1h81qHhrzaM)
   + ReS2TIM: Reconstruct Syntactic Structures from Table Images-[Paper](https://ieeexplore.ieee.org/document/8978027)
-  + TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images-[Paper](https://www.computer.org/csdl/proceedings-article/icdar/2019/301400a128/1h81vwkHTwY)
+  + TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images-[Paper](https://www.computer.org/csdl/proceedings-article/icdar/2019/301400a128/1h81vwkHTwY),[code](https://github.com/AmanSavaria1402/TableNet),[model](https://drive.google.com/file/d/11cl-QP5xsYmuM-IwCtc1psMH14bb7kFx/view)
 
