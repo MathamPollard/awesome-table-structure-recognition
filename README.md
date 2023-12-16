@@ -26,7 +26,8 @@
   + Show, Read and Reason: Table Structure Recognition with Flexible Context Aggregator-[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3481534)
 ## ICDAR 2021  
   + LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-86549-8_7)
-  + PINGAN-VCGROUP’S SOLUTION FOR ICDAR 2021 COMPETITION ON SCIENTIFIC LITERATURE PARSING TASK B:TABLE RECOGNITION TO HTML-[Paper](https://www.semanticscholar.org/paper/PingAn-VCGroup%27s-Solution-for-ICDAR-2021-on-Table-He-Qi/754087ddb922b22873c20b3b4eec3272898326d9)
+  + PINGAN-VCGROUP’S SOLUTION FOR ICDAR 2021 COMPETITION ON SCIENTIFIC LITERATURE PARSING TASK B:TABLE RECOGNITION TO HTML-[Paper](https://www.semanticscholar.org/paper/PingAn-VCGroup%27s-Solution-for-ICDAR-2021-on-Table-He-Qi/754087ddb922b22873c20b3b4eec3272898326d9),
+    [code](https://github.com/JiaquanYe/TableMASTER-mmocr)
   + TabLeX: A Benchmark Dataset for Structure and Content Information Extraction from Scientific Tables-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_36)
 ## CVPRW 2020  
   + CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents-[Paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Prasad_CascadeTabNet_An_Approach_for_End_to_End_Table_Detection_and_CVPRW_2020_paper.pdf),
