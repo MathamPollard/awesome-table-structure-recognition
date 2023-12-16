@@ -63,7 +63,7 @@
 | [TabRecSet](https://github.com/MaxKinny/TabRecSet)                               | 38177 | Both     | √ | √ | √ |2023|
 | [iFLYTAB](https://github.com/ZZR8066/SEMv2?tab=readme-ov-file)                   | 12104 | Both     |   | √ |   |2023|
 
-TD means Table Detection  
-TSR means Table Structure Recognition  
-TCD means Table Content Recognition  
-Both means including both digital and physical data
+**TD** means **T**able **D**etection  
+**TSR** means **T**able **S**tructure **R**ecognition  
+**TCD** means **T**able **C**ontent **R**ecognition  
+**Both** means including both digital and physical data
