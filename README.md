@@ -1,4 +1,6 @@
-# A Curated List of Awesome Table Structure Recognition (TSR) Research.
+# A Curated List of Awesome Table Structure Recognition (TSR) Research.  
+Currently included models:
+VAST,TRACE,NCGM,TGRNet,SEM,SEMv2,TSRFormer,TableFormer,GTE,LGPMA,TableMaster,CascadeTabNet  
 ### CVPR 2023  
   + Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)
 ### AAAI 2023  
