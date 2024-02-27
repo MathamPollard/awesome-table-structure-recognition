@@ -1,6 +1,6 @@
 # A Curated List of Awesome Table Structure Recognition (TSR) Research.  
- This is a curated list of awesome table structure recognition (TSR) research.Including **models**, papers, datasets and **codes**. Continuously updating.
-## Datasets
+ This is a curated list of awesome table structure recognition (TSR) research.Including **sota models**, influential papers, popular datasets and open-source **codes**. Continuously updating.
+## Popular Datasets
 |  Name      | Tables | Data Type | TD |  TSR | TCR |  Year|
 |  ----      | ----    | ---- | ---- | ---- | ---- |  ----|
 | [ICDAR2013](https://paperswithcode.com/dataset/icdar-2013)                       | 156   | Digital | √ | √ | √ |2013|
@@ -19,7 +19,7 @@
 **TSR** means **T**able **S**tructure **R**ecognition  
 **TCD** means **T**able **C**ontent **R**ecognition  
 **Both** means including both digital and physical data 
-## Models 
+## SOTA Models 
 |      Method Type      |                     Method Name                    | 
 |:---------------------:|:--------------------------------------------------:|
 |      Graph-based      | GraphTSR、GFTE、TGRNet、FLAG-Net、GTE、[NCGM](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Neural_Collaborative_Graph_Machines_for_Table_Structure_Recognition_CVPR_2022_paper.pdf)         | 
@@ -27,7 +27,7 @@
 | Split-and-merge-based | SEM、[SEMv2](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd)、RobusTabNet、TSRFormer                 | 
 |         Others        | LGPMA、Cycle-CenterNet、[CascadeTabNet](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Prasad_CascadeTabNet_An_Approach_for_End_to_End_Table_Detection_and_CVPRW_2020_paper.pdf)、DETR、TRACE | 
 
-## Papers  
+## Influential Papers  
 ### CVPR 2023  
   + Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)
 ### AAAI 2023  
