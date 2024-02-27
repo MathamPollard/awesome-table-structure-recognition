@@ -23,9 +23,9 @@
 |      Method Type      |                     Method Name                    | 
 |:---------------------:|:--------------------------------------------------:|
 |      Graph-based      | GraphTSR、GFTE、TGRNet、FLAG-Net、GTE、[NCGM](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Neural_Collaborative_Graph_Machines_for_Table_Structure_Recognition_CVPR_2022_paper.pdf)         | 
-|    Image-to-markup    | EDD、TableMaster、TableFormer、VAST                | 
-| Split-and-merge-based | SEM、SEMv2、RobusTabNet、TSRFormer                 | 
-|         Others        | LGPMA、Cycle-CenterNet、CascadeTabNet、DETR、TRACE | 
+|    Image-to-markup    | [EDD](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660562.pdf)、TableMaster、TableFormer、[VAST](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)                | 
+| Split-and-merge-based | SEM、[SEMv2](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd)、RobusTabNet、TSRFormer                 | 
+|         Others        | LGPMA、Cycle-CenterNet、[CascadeTabNet](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Prasad_CascadeTabNet_An_Approach_for_End_to_End_Table_Detection_and_CVPRW_2020_paper.pdf)、DETR、TRACE | 
 
 ## Papers  
 ### CVPR 2023  
