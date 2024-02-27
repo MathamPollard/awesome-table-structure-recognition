@@ -1,6 +1,25 @@
 # A Curated List of Awesome Table Structure Recognition (TSR) Research.  
 ### Currently included models:  
   **VAST,TRACE,NCGM,TGRNet,SEM,SEMv2,TSRFormer,TableFormer,GTE,LGPMA,TableMaster,CascadeTabNet**  
+## Datasets
+|  Name      | Tables | Data Type | TD |  TSR | TCR |  Year|
+|  ----      | ----    | ---- | ---- | ---- | ---- |  ----|
+| [ICDAR2013](https://paperswithcode.com/dataset/icdar-2013)                       | 156   | Digital | √ | √ | √ |2013|
+| [SciTSR](https://github.com/Academic-Hammer/SciTSR)                              | 15K   | Digital | × | √ | √ |2019|
+| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 417K  | Digital | √ | × | × |2020|
+| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 145K  | Digital | × | √ | × |2020|
+| [PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)                            | 1M+   | Digital | × | √ | √ |2020|
+| [PubTables-1M](https://github.com/microsoft/table-transformer?tab=readme-ov-file)| 1M+   | Digital | √ | √ | × |2021|
+| [FinbTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)            | 91596 | Digital | × | √ | √ |2021|
+| [WTW](https://github.com/wangwen-whu/WTW-Dataset)                                | 14581 | Both    | × | √ | × |2021|  
+| [SynthTabNet](https://github.com/IBM/SynthTabNet)                                | 600K  | Digital | × | √ | √ |2022|
+| [TabRecSet](https://github.com/MaxKinny/TabRecSet)                               | 38177 | Both    | √ | √ | √ |2023|
+| [iFLYTAB](https://github.com/ZZR8066/SEMv2?tab=readme-ov-file)                   | 12104 | Both    | √ | √ | × |2023|
+
+**TD** means **T**able **D**etection  
+**TSR** means **T**able **S**tructure **R**ecognition  
+**TCD** means **T**able **C**ontent **R**ecognition  
+**Both** means including both digital and physical data 
 ## Papers  
 ### CVPR 2023  
   + Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)
@@ -59,22 +78,4 @@
 #### 2021  
   + Multi-Type-TD-TSR -- Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition: from OCR to Structured Table Representations-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87626-5_8),
     [code](https://github.com/Psarpei/Multi-Type-TD-TSR)
-## Datasets
-|  Name      | Tables | Data Type | TD |  TSR | TCR |  Year|
-|  ----      | ----    | ---- | ---- | ---- | ---- |  ----|
-| [ICDAR2013](https://paperswithcode.com/dataset/icdar-2013)                       | 156   | Digital | √ | √ | √ |2013|
-| [SciTSR](https://github.com/Academic-Hammer/SciTSR)                              | 15K   | Digital | × | √ | √ |2019|
-| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 417K  | Digital | √ | × | × |2020|
-| [TableBank](https://doc-analysis.github.io/tablebank-page/)                      | 145K  | Digital | × | √ | × |2020|
-| [PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)                            | 1M+   | Digital | × | √ | √ |2020|
-| [PubTables-1M](https://github.com/microsoft/table-transformer?tab=readme-ov-file)| 1M+   | Digital | √ | √ | × |2021|
-| [FinbTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)            | 91596 | Digital | × | √ | √ |2021|
-| [WTW](https://github.com/wangwen-whu/WTW-Dataset)                                | 14581 | Both    | × | √ | × |2021|  
-| [SynthTabNet](https://github.com/IBM/SynthTabNet)                                | 600K  | Digital | × | √ | √ |2022|
-| [TabRecSet](https://github.com/MaxKinny/TabRecSet)                               | 38177 | Both    | √ | √ | √ |2023|
-| [iFLYTAB](https://github.com/ZZR8066/SEMv2?tab=readme-ov-file)                   | 12104 | Both    | √ | √ | × |2023|
 
-**TD** means **T**able **D**etection  
-**TSR** means **T**able **S**tructure **R**ecognition  
-**TCD** means **T**able **C**ontent **R**ecognition  
-**Both** means including both digital and physical data
