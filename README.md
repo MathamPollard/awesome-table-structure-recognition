@@ -1,6 +1,5 @@
 # A Curated List of Awesome Table Structure Recognition (TSR) Research.  
-### Currently included models:  
-  **VAST,TRACE,NCGM,TGRNet,SEM,SEMv2,TSRFormer,TableFormer,GTE,LGPMA,TableMaster,CascadeTabNet**  
+ 
 ## Datasets
 |  Name      | Tables | Data Type | TD |  TSR | TCR |  Year|
 |  ----      | ----    | ---- | ---- | ---- | ---- |  ----|
@@ -20,6 +19,14 @@
 **TSR** means **T**able **S**tructure **R**ecognition  
 **TCD** means **T**able **C**ontent **R**ecognition  
 **Both** means including both digital and physical data 
+## Models 
+|      Method Type      |                     Method Name                    | 
+|:---------------------:|:--------------------------------------------------:|
+|      Graph-based      | GraphTSR、GFTE、TGRNet、FLAG-Net、GTE、[NCGM](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Neural_Collaborative_Graph_Machines_for_Table_Structure_Recognition_CVPR_2022_paper.pdf)         | 
+|    Image-to-markup    | EDD、TableMaster、TableFormer、VAST                | 
+| Split-and-merge-based | SEM、SEMv2、RobusTabNet、TSRFormer                 | 
+|         Others        | LGPMA、Cycle-CenterNet、CascadeTabNet、DETR、TRACE | 
+
 ## Papers  
 ### CVPR 2023  
   + Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)
