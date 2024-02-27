@@ -1,5 +1,5 @@
 # A Curated List of Awesome Table Structure Recognition (TSR) Research.  
- This is a curated list of awesome table structure recognition (TSR) research.Including models, papers, datasets and codes. Continuously updating.
+ This is a curated list of awesome table structure recognition (TSR) research.Including **models**, papers, datasets and **codes**. Continuously updating.
 ## Datasets
 |  Name      | Tables | Data Type | TD |  TSR | TCR |  Year|
 |  ----      | ----    | ---- | ---- | ---- | ---- |  ----|
