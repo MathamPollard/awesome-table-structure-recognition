@@ -20,12 +20,158 @@
 **TCD** means **T**able **C**ontent **R**ecognition  
 **Both** means including both digital and physical data 
 ## SOTA Models 
-|      Method Type      |                     Method Name                    | 
-|:---------------------:|:--------------------------------------------------:|
-|      Graph-based      | GraphTSR、GFTE、TGRNet、FLAG-Net、GTE、[NCGM](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Neural_Collaborative_Graph_Machines_for_Table_Structure_Recognition_CVPR_2022_paper.pdf)         | 
-|    Image-to-markup    | [EDD](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660562.pdf)、TableMaster、TableFormer、[VAST](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)                | 
-| Split-and-merge-based | SEM、[SEMv2](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd)、RobusTabNet、TSRFormer                 | 
-|         Others        | LGPMA、Cycle-CenterNet、[CascadeTabNet](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w34/Prasad_CascadeTabNet_An_Approach_for_End_to_End_Table_Detection_and_CVPRW_2020_paper.pdf)、DETR、TRACE | 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9wq8" rowspan="2">Method Type</th>
+    <th class="tg-9wq8" rowspan="2">Method Name</th>
+    <th class="tg-9wq8" rowspan="2">Citation Count</th>
+    <th class="tg-9wq8" rowspan="2">Year</th>
+    <th class="tg-9wq8" rowspan="2">Venue</th>
+  </tr>
+  <tr>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9wq8" rowspan="10">Bottom-up</td>
+    <td class="tg-9wq8">Res2TIM</td>
+    <td class="tg-9wq8">37</td>
+    <td class="tg-9wq8">2019</td>
+    <td class="tg-9wq8">ICDAR</td>
+  </tr>
+  <tr>
+    <td class="tg-9wq8">CascadeTabNet</td>
+    <td class="tg-9wq8">182</td>
+    <td class="tg-9wq8">2020</td>
+    <td class="tg-c3ow">CVPR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">TabStruct-Net</td>
+    <td class="tg-nrix">87</td>
+    <td class="tg-nrix">2020</td>
+    <td class="tg-baqh">ECCV</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">LGPMA</td>
+    <td class="tg-nrix">63</td>
+    <td class="tg-nrix">2021</td>
+    <td class="tg-baqh">ICDAR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Cycle-CenterNet</td>
+    <td class="tg-nrix">39</td>
+    <td class="tg-nrix">2021</td>
+    <td class="tg-baqh">ICCV</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">TGRNet</td>
+    <td class="tg-nrix">42</td>
+    <td class="tg-nrix">2021</td>
+    <td class="tg-nrix">ICCV</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">FLAG-NET</td>
+    <td class="tg-nrix">30</td>
+    <td class="tg-nrix">2021</td>
+    <td class="tg-baqh">MM</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">GTE</td>
+    <td class="tg-nrix">116</td>
+    <td class="tg-nrix">2021</td>
+    <td class="tg-baqh">WACV</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">NCGM</td>
+    <td class="tg-nrix">25</td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-nrix">CVPR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">LORE</td>
+    <td class="tg-nrix">7</td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">AAAI</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="4">Image2Markup</td>
+    <td class="tg-nrix">EDD</td>
+    <td class="tg-nrix">171</td>
+    <td class="tg-nrix">2020</td>
+    <td class="tg-nrix">ECCV</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">TableMaster</td>
+    <td class="tg-nrix">34</td>
+    <td class="tg-nrix">2021</td>
+    <td class="tg-baqh">ICDAR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">TableFormer</td>
+    <td class="tg-nrix">41</td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-nrix">CVPR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">VAST</td>
+    <td class="tg-nrix">12</td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">CVPR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="5">Split-and-Merge Based</td>
+    <td class="tg-nrix">SPLERGE</td>
+    <td class="tg-nrix">91</td>
+    <td class="tg-nrix">2019</td>
+    <td class="tg-baqh">ICDAR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">SEM</td>
+    <td class="tg-nrix">40</td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-baqh">PR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">TSRFormer</td>
+    <td class="tg-nrix">20</td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-nrix">MM</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">RobusTabNet</td>
+    <td class="tg-nrix">32</td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">PR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">SEMv2</td>
+    <td class="tg-nrix">3</td>
+    <td class="tg-nrix">2024</td>
+    <td class="tg-baqh">PR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="3">Others</td>
+    <td class="tg-nrix">TableNet</td>
+    <td class="tg-nrix">188</td>
+    <td class="tg-nrix">2019</td>
+    <td class="tg-nrix">ICDAR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">DETR</td>
+    <td class="tg-nrix">60</td>
+    <td class="tg-nrix">2022</td>
+    <td class="tg-nrix">CVPR</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">TRACE</td>
+    <td class="tg-nrix">3</td>
+    <td class="tg-nrix">2023</td>
+    <td class="tg-nrix">ICDAR</td>
+  </tr>
+</tbody>
+</table>
+
 
 ## Influential Papers  
 ### CVPR 2023  
