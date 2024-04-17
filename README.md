@@ -221,6 +221,8 @@
 ### PR 2023  
   + Robust Table Detection and Structure Recognition from Heterogeneous Document Images-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320322004861)
   + Scene table structure recognition with segmentation collaboration and alignment-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865522003828?via%3Dihub)
+### ACL 2023 
+ + TableVLM: Multi-modal Pre-training for Table Structure Recognition-[Paper](https://aclanthology.org/2023.acl-long.137/) 
 ### ICDAR 2023  
   + TRACE: Table Reconstruction Aligned to Corner and Edges-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_29)
   + Aligning benchmark datasets for table structure recognition-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_23)
