@@ -273,6 +273,6 @@
   + Multi-Type-TD-TSR -- Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition: from OCR to Structured Table Representations-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87626-5_8),
     [code](https://github.com/Psarpei/Multi-Type-TD-TSR)
 ## Surveys 
- + A Study on Reproducibility and Replicability of Table Structure Recognition Methods-**[ICDAR 2023]**(https://link.springer.com/chapter/10.1007/978-3-031-41679-8_1)
+ + **[ICDAR 2023]** A Study on Reproducibility and Replicability of Table Structure Recognition Methods-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41679-8_1)
 
 
