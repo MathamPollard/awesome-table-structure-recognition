@@ -23,151 +23,186 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9wq8" rowspan="2">Method Type</th>
-    <th class="tg-9wq8" rowspan="2">Method Name</th>
-    <th class="tg-9wq8" rowspan="2">Citation Count</th>
-    <th class="tg-9wq8" rowspan="2">Year</th>
-    <th class="tg-9wq8" rowspan="2">Venue</th>
-  </tr>
-  <tr>
+    <th class="tg-yi8c">Method Type</th>
+    <th class="tg-yi8c">Method Name</th>
+    <th class="tg-yi8c">Citation Count</th>
+    <th class="tg-yi8c">Year</th>
+    <th class="tg-yi8c">Venue</th>
+    <th class="tg-z3bf">Open Source</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9wq8" rowspan="10">Bottom-up</td>
-    <td class="tg-9wq8">Res2TIM</td>
-    <td class="tg-9wq8">37</td>
-    <td class="tg-9wq8">2019</td>
-    <td class="tg-9wq8">ICDAR</td>
+    <td class="tg-mdwb" rowspan="10">Bottom-up</td>
+    <td class="tg-mdwb">Res2TIM</td>
+    <td class="tg-mdwb">37</td>
+    <td class="tg-mdwb">2019</td>
+    <td class="tg-mdwb">ICDAR</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-9wq8">CascadeTabNet</td>
-    <td class="tg-9wq8">182</td>
-    <td class="tg-9wq8">2020</td>
-    <td class="tg-c3ow">CVPR</td>
+    <td class="tg-mdwb">CascadeTabNet</td>
+    <td class="tg-mdwb">182</td>
+    <td class="tg-mdwb">2020</td>
+    <td class="tg-3wrp">CVPR</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">TabStruct-Net</td>
-    <td class="tg-nrix">87</td>
-    <td class="tg-nrix">2020</td>
-    <td class="tg-baqh">ECCV</td>
+    <td class="tg-mdwb">TabStruct-Net</td>
+    <td class="tg-mdwb">87</td>
+    <td class="tg-mdwb">2020</td>
+    <td class="tg-3wrp">ECCV</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix">LGPMA</td>
-    <td class="tg-nrix">63</td>
-    <td class="tg-nrix">2021</td>
-    <td class="tg-baqh">ICDAR</td>
+    <td class="tg-f8mc">LGPMA</td>
+    <td class="tg-f8mc">63</td>
+    <td class="tg-f8mc">2021</td>
+    <td class="tg-eav8">ICDAR</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">Cycle-CenterNet</td>
-    <td class="tg-nrix">39</td>
-    <td class="tg-nrix">2021</td>
-    <td class="tg-baqh">ICCV</td>
+    <td class="tg-f8mc">Cycle-CenterNet</td>
+    <td class="tg-f8mc">39</td>
+    <td class="tg-f8mc">2021</td>
+    <td class="tg-eav8">ICCV</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix">TGRNet</td>
-    <td class="tg-nrix">42</td>
-    <td class="tg-nrix">2021</td>
-    <td class="tg-nrix">ICCV</td>
+    <td class="tg-f8mc">TGRNet</td>
+    <td class="tg-f8mc">42</td>
+    <td class="tg-f8mc">2021</td>
+    <td class="tg-f8mc">ICCV</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">FLAG-NET</td>
-    <td class="tg-nrix">30</td>
-    <td class="tg-nrix">2021</td>
-    <td class="tg-baqh">MM</td>
+    <td class="tg-f8mc">FLAG-NET</td>
+    <td class="tg-f8mc">30</td>
+    <td class="tg-f8mc">2021</td>
+    <td class="tg-eav8">MM</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix">GTE</td>
-    <td class="tg-nrix">116</td>
-    <td class="tg-nrix">2021</td>
-    <td class="tg-baqh">WACV</td>
+    <td class="tg-f8mc">GTE</td>
+    <td class="tg-f8mc">116</td>
+    <td class="tg-f8mc">2021</td>
+    <td class="tg-eav8">WACV</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix">NCGM</td>
-    <td class="tg-nrix">25</td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-nrix">CVPR</td>
+    <td class="tg-f8mc">NCGM</td>
+    <td class="tg-f8mc">25</td>
+    <td class="tg-f8mc">2022</td>
+    <td class="tg-f8mc">CVPR</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix">LORE</td>
-    <td class="tg-nrix">7</td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">AAAI</td>
+    <td class="tg-f8mc">LORE</td>
+    <td class="tg-f8mc">7</td>
+    <td class="tg-f8mc">2023</td>
+    <td class="tg-f8mc">AAAI</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix" rowspan="4">Image2Markup</td>
-    <td class="tg-nrix">EDD</td>
-    <td class="tg-nrix">171</td>
-    <td class="tg-nrix">2020</td>
-    <td class="tg-nrix">ECCV</td>
+    <td class="tg-f8mc" rowspan="6">Image2Markup</td>
+    <td class="tg-f8mc">EDD</td>
+    <td class="tg-f8mc">171</td>
+    <td class="tg-f8mc">2020</td>
+    <td class="tg-f8mc">ECCV</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">TableMaster</td>
-    <td class="tg-nrix">34</td>
-    <td class="tg-nrix">2021</td>
-    <td class="tg-baqh">ICDAR</td>
+    <td class="tg-f8mc">TableMaster</td>
+    <td class="tg-f8mc">34</td>
+    <td class="tg-f8mc">2021</td>
+    <td class="tg-eav8">ICDAR</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">TableFormer</td>
-    <td class="tg-nrix">41</td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-nrix">CVPR</td>
+    <td class="tg-f8mc">TableFormer</td>
+    <td class="tg-f8mc">41</td>
+    <td class="tg-f8mc">2022</td>
+    <td class="tg-f8mc">CVPR</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix">VAST</td>
-    <td class="tg-nrix">12</td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">CVPR</td>
+    <td class="tg-f8mc">VAST</td>
+    <td class="tg-f8mc">12</td>
+    <td class="tg-f8mc">2023</td>
+    <td class="tg-f8mc">CVPR</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix" rowspan="5">Split-and-Merge Based</td>
-    <td class="tg-nrix">SPLERGE</td>
-    <td class="tg-nrix">91</td>
-    <td class="tg-nrix">2019</td>
-    <td class="tg-baqh">ICDAR</td>
+    <td class="tg-f8mc">UniTable</td>
+    <td class="tg-f8mc"></td>
+    <td class="tg-f8mc">2024</td>
+    <td class="tg-f8mc"></td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">SEM</td>
-    <td class="tg-nrix">40</td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-baqh">PR</td>
+    <td class="tg-f8mc">OminParser</td>
+    <td class="tg-f8mc"></td>
+    <td class="tg-f8mc">2024</td>
+    <td class="tg-f8mc">CVPR</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix">TSRFormer</td>
-    <td class="tg-nrix">20</td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-nrix">MM</td>
+    <td class="tg-f8mc" rowspan="5">Split-and-Merge Based</td>
+    <td class="tg-f8mc">SPLERGE</td>
+    <td class="tg-f8mc">91</td>
+    <td class="tg-f8mc">2019</td>
+    <td class="tg-eav8">ICDAR</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">RobusTabNet</td>
-    <td class="tg-nrix">32</td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">PR</td>
+    <td class="tg-f8mc">SEM</td>
+    <td class="tg-f8mc">40</td>
+    <td class="tg-f8mc">2022</td>
+    <td class="tg-eav8">PR</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">SEMv2</td>
-    <td class="tg-nrix">3</td>
-    <td class="tg-nrix">2024</td>
-    <td class="tg-baqh">PR</td>
+    <td class="tg-f8mc">TSRFormer</td>
+    <td class="tg-f8mc">20</td>
+    <td class="tg-f8mc">2022</td>
+    <td class="tg-f8mc">MM</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix" rowspan="3">Others</td>
-    <td class="tg-nrix">TableNet</td>
-    <td class="tg-nrix">188</td>
-    <td class="tg-nrix">2019</td>
-    <td class="tg-nrix">ICDAR</td>
+    <td class="tg-f8mc">RobusTabNet</td>
+    <td class="tg-f8mc">32</td>
+    <td class="tg-f8mc">2023</td>
+    <td class="tg-f8mc">PR</td>
+    <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-nrix">DETR</td>
-    <td class="tg-nrix">60</td>
-    <td class="tg-nrix">2022</td>
-    <td class="tg-nrix">CVPR</td>
+    <td class="tg-f8mc">SEMv2</td>
+    <td class="tg-f8mc">3</td>
+    <td class="tg-f8mc">2024</td>
+    <td class="tg-eav8">PR</td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
-    <td class="tg-nrix">TRACE</td>
-    <td class="tg-nrix">3</td>
-    <td class="tg-nrix">2023</td>
-    <td class="tg-nrix">ICDAR</td>
+    <td class="tg-f8mc" rowspan="3">Others</td>
+    <td class="tg-f8mc">TableNet</td>
+    <td class="tg-f8mc">188</td>
+    <td class="tg-f8mc">2019</td>
+    <td class="tg-f8mc">ICDAR</td>
+    <td class="tg-f8mc">√</td>
+  </tr>
+  <tr>
+    <td class="tg-f8mc">DETR</td>
+    <td class="tg-f8mc">60</td>
+    <td class="tg-f8mc">2022</td>
+    <td class="tg-f8mc">CVPR</td>
+    <td class="tg-f8mc">√</td>
+  </tr>
+  <tr>
+    <td class="tg-f8mc">TRACE</td>
+    <td class="tg-f8mc">3</td>
+    <td class="tg-f8mc">2023</td>
+    <td class="tg-f8mc">ICDAR</td>
+    <td class="tg-f8mc">√</td>
   </tr>
 </tbody>
 </table>
