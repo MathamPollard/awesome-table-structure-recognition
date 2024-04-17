@@ -210,7 +210,7 @@
 
 ## Influential Papers  
 ### CVPR 2024 
- + OMNIPARSER: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition-[Paper]([https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd](https://arxiv.org/abs/2403.19128))
+ + OMNIPARSER: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition-[Paper](https://arxiv.org/abs/2403.19128)
 ### PR 2024 
  + SEMv2: Table Separation Line Detection Based on Conditional Convolution-[Paper](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd),
     [code](https://github.com/ZZR8066/SEMv2) 
@@ -224,6 +224,7 @@
 ### ICDAR 2023  
   + TRACE: Table Reconstruction Aligned to Corner and Edges-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_29)
   + Aligning benchmark datasets for table structure recognition-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_23)
+  + Optimized Table Tokenization for Table Structure Recognition-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41679-8_3)
 ### CVPR 2022
   + Neural Collaborative Graph Machines for Table Structure Recognition-[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Neural_Collaborative_Graph_Machines_for_Table_Structure_Recognition_CVPR_2022_paper.pdf)
   + TableFormer: Table Structure Understanding with Transformers-[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Nassar_TableFormer_Table_Structure_Understanding_With_Transformers_CVPR_2022_paper.pdf)
@@ -264,6 +265,8 @@
   + ReS2TIM: Reconstruct Syntactic Structures from Table Images-[Paper](https://ieeexplore.ieee.org/document/8978027)
   + TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images-[Paper](https://www.computer.org/csdl/proceedings-article/icdar/2019/301400a128/1h81vwkHTwY),[code](https://github.com/AmanSavaria1402/TableNet),[model](https://drive.google.com/file/d/11cl-QP5xsYmuM-IwCtc1psMH14bb7kFx/view)
 ## Others  
+#### 2024
+ + UniTable: Towards a Unified Framework for Table Structure Recognition via Self-Supervised Pretraining-[Paper](https://arxiv.org/abs/2403.04822) 
 #### 2023
   + A large-scale dataset for end-to-end table recognition in the wild-[Paper](https://www.nature.com/articles/s41597-023-01985-8),[code](https://github.com/MaxKinny/TabRecSet)
 #### 2021  
