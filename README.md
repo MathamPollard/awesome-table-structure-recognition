@@ -209,6 +209,11 @@
 
 
 ## Influential Papers  
+### CVPR 2024 
+ + OMNIPARSER: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition-[Paper]([https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd](https://arxiv.org/abs/2403.19128))
+### PR 2024 
+ + SEMv2: Table Separation Line Detection Based on Conditional Convolution-[Paper](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd),
+    [code](https://github.com/ZZR8066/SEMv2) 
 ### CVPR 2023  
   + Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)
 ### AAAI 2023  
@@ -260,8 +265,6 @@
   + TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images-[Paper](https://www.computer.org/csdl/proceedings-article/icdar/2019/301400a128/1h81vwkHTwY),[code](https://github.com/AmanSavaria1402/TableNet),[model](https://drive.google.com/file/d/11cl-QP5xsYmuM-IwCtc1psMH14bb7kFx/view)
 ## Others  
 #### 2023
-  + SEMv2: Table Separation Line Detection Based on Conditional Convolution-[Paper](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd),
-    [code](https://github.com/ZZR8066/SEMv2)
   + A large-scale dataset for end-to-end table recognition in the wild-[Paper](https://www.nature.com/articles/s41597-023-01985-8),[code](https://github.com/MaxKinny/TabRecSet)
 #### 2021  
   + Multi-Type-TD-TSR -- Extracting Tables from Document Images using a Multi-stage Pipeline for Table Detection and Table Structure Recognition: from OCR to Structured Table Representations-[Paper](https://link.springer.com/chapter/10.1007/978-3-030-87626-5_8),
