@@ -277,5 +277,7 @@
 ## Surveys 
  + **[ICDAR 2023]** A Study on Reproducibility and Replicability of Table Structure Recognition Methods-[Paper](https://link.springer.com/chapter/10.1007/978-3-031-41679-8_1)
  + Deep Learning for Table Detection and Structure Recognition: A Survey-[Paper](https://dl.acm.org/doi/abs/10.1145/3657281)
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=MathamPollard/awesome-table-structure-recognition&type=Date)](https://star-history.com/#MathamPollard/awesome-table-structure-recognition&Date)
 
