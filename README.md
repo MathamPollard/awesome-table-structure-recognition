@@ -163,7 +163,7 @@
   </tr>
   <tr>
     <td class="tg-f8mc">TSRFormer</td>
-    <td class="tg-f8mc">20</td>
+    <td class="tg-f8mc">24</td>
     <td class="tg-f8mc">2022</td>
     <td class="tg-f8mc">MM</td>
     <td class="tg-f8mc"></td>
@@ -171,6 +171,13 @@
   <tr>
     <td class="tg-f8mc">RobusTabNet</td>
     <td class="tg-f8mc">32</td>
+    <td class="tg-f8mc">2023</td>
+    <td class="tg-f8mc">PR</td>
+    <td class="tg-f8mc"></td>
+  </tr>
+  <tr>
+    <td class="tg-f8mc">TSRFormer-DQ-DETR</td>
+    <td class="tg-f8mc">8</td>
     <td class="tg-f8mc">2023</td>
     <td class="tg-f8mc">PR</td>
     <td class="tg-f8mc"></td>
