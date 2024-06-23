@@ -147,7 +147,7 @@
     <td class="tg-f8mc"></td>
   </tr>
   <tr>
-    <td class="tg-f8mc" rowspan="5">Split-and-Merge Based</td>
+    <td class="tg-f8mc" rowspan="6">Split-and-Merge Based</td>
     <td class="tg-f8mc">SPLERGE</td>
     <td class="tg-f8mc">91</td>
     <td class="tg-f8mc">2019</td>
@@ -181,6 +181,13 @@
     <td class="tg-f8mc">2024</td>
     <td class="tg-eav8">PR</td>
     <td class="tg-f8mc">√</td>
+  </tr>
+  <tr>
+    <td class="tg-f8mc">TSRFormer-DQ-DETR</td>
+    <td class="tg-f8mc"> </td>
+    <td class="tg-f8mc">2024</td>
+    <td class="tg-eav8">PR</td>
+    <td class="tg-f8mc"> </td>
   </tr>
   <tr>
     <td class="tg-f8mc" rowspan="3">Others</td>
