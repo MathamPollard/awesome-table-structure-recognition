@@ -220,7 +220,8 @@
  + OMNIPARSER: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition-[Paper](https://arxiv.org/abs/2403.19128)
 ### PR 2024 
  + SEMv2: Table Separation Line Detection Based on Conditional Convolution-[Paper](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd),
-    [code](https://github.com/ZZR8066/SEMv2) 
+    [code](https://github.com/ZZR8066/SEMv2)
+ + Robust table structure recognition with dynamic queries enhanced detection transformer-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005150)
 ### CVPR 2023  
   + Improving Table Structure Recognition with Visual-Alignment Sequential Coordinate Modeling-[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Improving_Table_Structure_Recognition_With_Visual-Alignment_Sequential_Coordinate_Modeling_CVPR_2023_paper.pdf)
 ### AAAI 2023  
