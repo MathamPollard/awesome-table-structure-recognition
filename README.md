@@ -217,7 +217,7 @@
 
 ## Influential Papers  
 ### CVPR 2024 
- + OMNIPARSER: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition-[Paper](https://arxiv.org/abs/2403.19128)
+ + OMNIPARSER: A Unified Framework for Text Spotting, Key Information Extraction and Table Recognition-[Paper](https://arxiv.org/abs/2403.19128), [code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery)
 ### PR 2024 
  + SEMv2: Table Separation Line Detection Based on Conditional Convolution-[Paper](https://www.semanticscholar.org/paper/SEMv2%3A-Table-Separation-Line-Detection-Based-on-Zhang-Hu/c78daabab3666d08d945098bc462f882b78803fd),
     [code](https://github.com/ZZR8066/SEMv2)
