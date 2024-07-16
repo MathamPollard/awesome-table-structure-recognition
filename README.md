@@ -144,7 +144,7 @@
     <td class="tg-f8mc"></td>
     <td class="tg-f8mc">2024</td>
     <td class="tg-f8mc">CVPR</td>
-    <td class="tg-f8mc"></td>
+    <td class="tg-f8mc">√</td>
   </tr>
   <tr>
     <td class="tg-f8mc" rowspan="6">Split-and-Merge Based</td>
